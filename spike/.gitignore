@@ -1,0 +1,10 @@
+# 客户真实单据与识别结果含经营数据，一律不进版本库
+samples/
+output/
+.cache/
+.env
+ground_truth.csv
+
+.venv/
+__pycache__/
+*.pyc
